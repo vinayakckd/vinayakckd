@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @vinayakckd
 - 👀 I’m interested in code
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning Blockchain
+- 💞️ I’m looking to collaborate on blockchain project
+- 📫 How to reach me reach me on vrkage@gmail.com
 
 <!---
 vinayakckd/vinayakckd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
